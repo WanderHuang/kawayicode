@@ -1,6 +1,11 @@
 # kawayicode
 A password management using basic javascript syntax rules.
 
+## Use
+### install
+`npm install kawayicode`
+
+### simple use
 0. esm modules
 var kawayicode = require('kawayicode');
 1. encode
