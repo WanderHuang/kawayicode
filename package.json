@@ -6,6 +6,18 @@
   "scripts": {
     "test": "node test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanderHuang/kawayicode.git"
+  },
+  "keywords": [
+    "password",
+    "js syntax"
+  ],
+  "bugs": {
+    "url": "https://github.com/WanderHuang/kawayicode/issues"
+  },
+  "homepage": "https://github.com/WanderHuang/kawayicode",
   "author": "wander",
   "license": "MIT"
 }
