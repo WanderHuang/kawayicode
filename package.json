@@ -1,0 +1,11 @@
+{
+  "name": "kawayicode",
+  "version": "0.0.1",
+  "description": "A password management using basic javascript syntax rules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "wander",
+  "license": "MIT"
+}
